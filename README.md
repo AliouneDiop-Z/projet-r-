@@ -1,5 +1,5 @@
-# projet-r-
- Estimation du Temps de Trajet Domicile-Travail
+# Estimation du Temps de Trajet Domicile-Travail projet-r- studios
+
  Description
 Ce projet vise à modéliser et prédire le temps de trajet en fonction de la distance, de l'heure de départ et du mode de transport. L'objectif est d'analyser les tendances et d'identifier les facteurs influençant la durée des trajets quotidiens.
 
